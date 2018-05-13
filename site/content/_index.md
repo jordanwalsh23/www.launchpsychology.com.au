@@ -2,7 +2,7 @@
 title1: From Surviving
 title2: To Thriving
 subtitle: Support sustainable farming while enjoying a cup
-image: /img/about-jumbotron.jpg
+image: /img/header-background-sm-cut.png
 blurb:
   heading: Why Kaldi?
   text: >-

@@ -1,8 +1,9 @@
 <!doctype html>
 <html lang="en">
   {{ partial "head" . }}
+  {{ partial "analytics" . }}
   <body class="sans-serif">
-    {{ partial "nav" . }}
+    {{ partial "fb-track" . }}
     {{ block "main" . }}{{ end }} 
     {{ partial "footer" . }} 
   </body>

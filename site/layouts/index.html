@@ -1,8 +1,8 @@
 {{ define "main" }}
 
-{{ partial "nav" . }}
+{{ partial "jumbotron" .Params }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title1" .Params.title1 "title2" .Params.title2 "subtitle" .Params.subtitle) }}
+{{ partial "nav" . }}
 
 {{ partial "short-text" .Params.blurb}}
 

@@ -1,7 +1,8 @@
 ---
-title: Launch into possibility
+title1: Launch
+title2: Into Possibility
 subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+image: /img/about-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
   text: >-

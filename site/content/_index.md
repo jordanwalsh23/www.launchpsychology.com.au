@@ -1,6 +1,6 @@
 ---
-title: From surviving
-title-2: To thriving
+title1: Launch
+title2: Into Possibility
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/about-jumbotron.jpg
 blurb:

@@ -3,8 +3,10 @@ title1: From Surviving
 title2: To Thriving
 subtitle: >-
   The psychology practice for those who want more. More meaning. More
-  connection. More challenge. More of the stuff of life. We offer psychology &
-  neuropsychology services.
+  connection. More challenge. More of the stuff of life. 
+
+
+  We offer psychology & neuropsychology services.
 image: /img/header-background-sm-cut.png
 blurb:
   heading: Why Kaldi?
